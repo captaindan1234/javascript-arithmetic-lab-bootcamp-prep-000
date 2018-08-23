@@ -22,10 +22,6 @@ function dec(n) {
   return n - 1
 }
 
-function parseInt(n) {
-  return n
-}
-
 function preserveDecimal(n) {
   return parseFloat(n)
 }
